@@ -3,3 +3,9 @@ youtube: [11pixels](https://www.youtube.com/channel/UCmcQsgVjq5suoCfi_dZXhUg) / 
 [Discord Server](https://discord.gg/vUN9sNW) / [Guilded Server](https://www.guilded.gg/i/7pYw9JL2) / [Steam](https://steamcommunity.com/id/11pixels)
 
 i do mostly css, some js (mostly discord.js) and trying to learn python (only discord.py for now)
+
+current projects (checked = actively working on):
+- [X] editing all HL2 maps to take place during night
+- [X] DTM-08, DTM-16, DTM-16-V5
+- [ ] DTM-20
+- [ ] changing HL2 textures to aurebesh
