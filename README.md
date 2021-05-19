@@ -5,7 +5,9 @@ youtube: [11pixels](https://www.youtube.com/channel/UCmcQsgVjq5suoCfi_dZXhUg) / 
 i do mostly css, some js (mostly discord.js) and trying to learn python (only discord.py for now)
 
 current projects (checked = actively working on):
-- [X] editing all HL2 maps to take place during night
 - [X] DTM-08, DTM-16, DTM-16-V5
+- [X] A special DTM theme 👀
+- [X] Theme based on Koto Studio's Discord branding
+- [ ] editing all HL2 maps to take place during night
 - [ ] DTM-20
 - [ ] changing HL2 textures to aurebesh
