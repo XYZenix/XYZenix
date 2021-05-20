@@ -11,3 +11,8 @@ current projects (checked = actively working on):
 - [ ] editing all HL2 maps to take place during night
 - [ ] DTM-20
 - [ ] changing HL2 textures to aurebesh
+
+planned projects:
+- [ ] replace dtm-16 v4 with v5 and make v4 a 'legacy' version (which i will probably stop updating)
+- [ ] port dtm-08 to scss
+- [ ] remake dtm-12
