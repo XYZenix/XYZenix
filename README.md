@@ -6,13 +6,12 @@ i do mostly css, some js (mostly discord.js) and trying to learn python (only di
 
 current projects (checked = actively working on):
 - [X] DTM-08, DTM-16, DTM-16-V5
-- [X] A special DTM theme 👀
-- [X] Theme based on Koto Studio's Discord branding
-- [ ] editing all HL2 maps to take place during night
-- [ ] DTM-20
-- [ ] changing HL2 textures to aurebesh
+- [X] A special DTM theme 👀 | progress: ▱▱▱▱ 1%
+- [X] Theme based on Koto Studio's Discord branding | progress: ▰▱▱▱ 15%
+- [ ] editing all HL2 maps to take place during night | progress: ▰▰▱▱ 45%
+- [ ] DTM-20 | progress: ▱▱▱▱ 1%
+- [ ] changing HL2 textures to aurebesh | progress: ▱▱▱▱ 1%
 
-planned projects:
-- [ ] replace dtm-16 v4 with v5 and make v4 a 'legacy' version (which i will probably stop updating)
-- [ ] port dtm-08 to scss
-- [ ] remake dtm-12
+planned projects / not started yet:
+- [ ] port dtm-08 to scss | progress: ▱▱▱▱ 0%
+- [ ] remake dtm-12 | progress: ▱▱▱▱ 0%
