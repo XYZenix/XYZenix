@@ -4,6 +4,8 @@ youtube: [11pixels](https://www.youtube.com/channel/UCmcQsgVjq5suoCfi_dZXhUg) / 
 
 i do mostly css, some js (mostly discord.js) and trying to learn python (only discord.py for now)
 
+i also procrastinate for a week straight then get 3 hours of work done and go back to procrastinating please help
+
 current projects (checked = actively working on):
 - [X] DTM-08, DTM-16, DTM-16-V5
 - [X] A special DTM theme 👀 | progress: ▱▱▱▱ 1%
